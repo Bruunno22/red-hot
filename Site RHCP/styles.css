@@ -1,0 +1,11 @@
+body {
+    background-image: url("logo redhot.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;   
+    background-image: url('logo redhot.gif');
+    background-size: 40%; 
+   
+}
+
